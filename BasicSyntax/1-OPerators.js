@@ -18,4 +18,16 @@ if(true){
 // let num23=nums;
 // console.log(nums==num23)
 
-console.log(10.0 === 10);
+// console.log(10.0 === 10);
+
+// Math-functions
+const Pi= Math.PI
+// console.log(Pi);
+// console.log(Math.round(Pi)); //3
+// console.log(Math.floor(Pi));  //3
+// console.log(Math.ceil(Pi));  //4 
+// console.log(Math.random());
+// console.log(Math.min(2,3,4,5,6,7,8));
+// console.log(Math.max(12,234, 345.6, 23, 10, 0));\
+// console.log(Math.log(10));
+
