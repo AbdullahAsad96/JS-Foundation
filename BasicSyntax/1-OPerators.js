@@ -40,6 +40,16 @@ const Pi= Math.PI
 //....//
 // string:
 // string-concatenation
-let str="Asad";
-const name="codeX  .";
-console.log(str+name);
+// let str="Asad";
+// const name="codeX  .";
+// console.log(str+name);
+
+// intersting facts
+// console.log("1"+2); //ans=12
+// console.log(5-"3"); // ans=2
+// ..//
+// hoisting
+// let greetings;
+// console.log(greetings); // answer= undefined
+// greetings ="Hello g \n kiya haal hai?\t.";
+// console.log(greetings);
