@@ -30,4 +30,16 @@ const Pi= Math.PI
 // console.log(Math.min(2,3,4,5,6,7,8));
 // console.log(Math.max(12,234, 345.6, 23, 10, 0));\
 // console.log(Math.log(10));
+       
+// randdom number btw 0 to 10
+// let num=Math.random();
+// let randomNum=num * 11;
+// console.log(randomNum);
 
+
+//....//
+// string:
+// string-concatenation
+let str="Asad";
+const name="codeX  .";
+console.log(str+name);
