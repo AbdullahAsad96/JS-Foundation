@@ -53,3 +53,11 @@ const Pi= Math.PI
 // console.log(greetings); // answer= undefined
 // greetings ="Hello g \n kiya haal hai?\t.";
 // console.log(greetings);
+
+// type checking
+// let a;
+// console.log(typeof a); //undefined
+// let name="";
+// const age=12;
+// let gender='m';
+// console.log(typeof(name), typeof age, typeof gender); // string, number, string 
