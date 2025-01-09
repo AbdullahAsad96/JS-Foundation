@@ -45,6 +45,8 @@ const Pi= Math.PI
 // console.log(str+name);
 // let len=str.length-1;
 // console.log(str[len]); // last index is 3 and at 3 there is 'd'
+// there are some string functions like replace(value to b replace, value to replace with ), uppercase, lowercase, trim(), spilt(), substring(1st letter, to last letter(last one skiped)), includes("string check"), chatAt(), charCodeAt(), indexOf(), lastIndexOf(), startwith(), endwith(), concate(), match(), search(),;
+
 
 // intersting facts
 // console.log("1"+2); //ans=12
