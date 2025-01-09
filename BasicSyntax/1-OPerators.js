@@ -43,6 +43,8 @@ const Pi= Math.PI
 // let str="Asad";
 // const name="codeX  .";
 // console.log(str+name);
+// let len=str.length-1;
+// console.log(str[len]); // last index is 3 and at 3 there is 'd'
 
 // intersting facts
 // console.log("1"+2); //ans=12
@@ -79,4 +81,5 @@ let nam="Marco";
 let num=10;
 // num=String(num);
 // console.log(num, typeof num); //10, string 
-
+// let ch='a';
+// console.log(typeof ch); // string
