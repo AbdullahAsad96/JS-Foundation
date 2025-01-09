@@ -63,6 +63,8 @@ const Pi= Math.PI
 // console.log(typeof(name), typeof age, typeof gender); // string, number, string 
 
 //type conversion
-let score=1;
-score=Number(score)
-console.log(typeof score)
+// let score=1;
+// let newscore=NaN;
+// console.log(typeof newscore); // number
+// score=Number(score)
+// console.log(typeof score)
