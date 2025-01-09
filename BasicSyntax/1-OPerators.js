@@ -61,3 +61,8 @@ const Pi= Math.PI
 // const age=12;
 // let gender='m';
 // console.log(typeof(name), typeof age, typeof gender); // string, number, string 
+
+//type conversion
+let score=1;
+score=Number(score)
+console.log(typeof score)
