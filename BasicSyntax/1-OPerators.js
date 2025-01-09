@@ -66,5 +66,17 @@ const Pi= Math.PI
 // let score=1;
 // let newscore=NaN;
 // console.log(typeof newscore); // number
+//
 // score=Number(score)
 // console.log(typeof score)
+// convert string into number
+let nam="Marco";
+// nam=Boolean(nam)
+// // console.log(typeof nam, nam); // boolean, true;
+// nam=Number(nam);
+// console.log(typeof nam , nam); // Number NaN
+// convert int into string
+let num=10;
+// num=String(num);
+// console.log(num, typeof num); //10, string 
+
