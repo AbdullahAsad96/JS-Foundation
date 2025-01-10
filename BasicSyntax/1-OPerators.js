@@ -67,6 +67,7 @@ const Pi= Math.PI
 // console.log(typeof(name), typeof age, typeof gender); // string, number, string 
 
 //type conversion
+//|  Casting: Converting one data type to another data type. We use parseInt(), parseFloat(), Number(), + sign, str() When we do arithmetic operations string numbers should be first converted to integer or float if not it returns an error.  |
 // let score=1;
 // let newscore=NaN;
 // console.log(typeof newscore); // number
@@ -77,7 +78,7 @@ const Pi= Math.PI
 let nam="Marco";
 // nam=Boolean(nam)
 // // console.log(typeof nam, nam); // boolean, true;
-// nam=Number(nam);
+nam=parseInt(nam);
 // console.log(typeof nam , nam); // Number NaN
 // convert int into string
 let num=10;
@@ -85,3 +86,10 @@ let num=10;
 // console.log(num, typeof num); //10, string 
 // let ch='a';
 // console.log(typeof ch); // string
+//float to int
+// let intnum=parseInt(num)
+// console.log(typeof intnum, intnum);
+// string to float
+
+let fltnum =parseFloat(nam);
+console.log(fltnum, typeof fltnum);
