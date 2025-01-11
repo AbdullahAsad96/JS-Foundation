@@ -91,5 +91,13 @@ let num=10;
 // console.log(typeof intnum, intnum);
 // string to float
 
-let fltnum =parseFloat(nam);
-console.log(fltnum, typeof fltnum);
+// let fltnum =parseFloat(nam);
+// console.log(fltnum, typeof fltnum);
+
+//date in JS
+let myDate = new Date()
+console.log(myDate.toString());
+console.log(myDate.getDay);
+console.log("",myDate.toDateString());
+console.log(myDate.toLocaleString());
+console.log(typeof myDate);
