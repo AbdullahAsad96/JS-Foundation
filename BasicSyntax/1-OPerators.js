@@ -112,4 +112,10 @@ let word1= "Pakistan";
 let word2= "is a muslim";
 let word3= " country";
 let concate_String=word1+word2+word3;
-console.log(concate_String) 
+// console.log(concate_String) 
+
+const lengthyString= "A string could be a single character or paragraph or a page.\
+ If the string length is too big it does not fit in one line. \
+ We can use the backslash character (\) at the end of each line \
+  to indicate that the string will continue on the next line" ;
+console.log(lengthyString);
