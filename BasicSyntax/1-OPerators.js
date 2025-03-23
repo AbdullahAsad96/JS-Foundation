@@ -103,3 +103,6 @@ let myDate = new Date()
 // console.log(typeof myDate);
 myDate=Date.now()
 console.log(typeof myDate);
+let sarr=[1,2,3,4]
+let varr=[1,2,3,4]
+console.log("hello world");
