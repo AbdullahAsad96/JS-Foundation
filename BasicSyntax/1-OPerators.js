@@ -106,3 +106,10 @@ console.log(typeof myDate);
 let sarr=[1,2,3,4]
 let varr=[1,2,3,4]
 console.log("hello world");
+
+// string concatination
+let word1= "Pakistan";
+let word2= "is a muslim";
+let word3= " country";
+let concate_String=word1+word2+word3;
+console.log(concate_String) 
