@@ -118,4 +118,14 @@ const lengthyString= "A string could be a single character or paragraph or a pag
  If the string length is too big it does not fit in one line. \
  We can use the backslash character (\) at the end of each line \
   to indicate that the string will continue on the next line" ;
-console.log(lengthyString);
+// console.log(lengthyString);
+
+// escape sequence in string
+
+/*
+\n: new line
+\t: Tab, means 8 spaces
+\\: Back slash
+\': Single quote (')
+\": Double quote (")
+*/ 
