@@ -50,3 +50,12 @@ function deleteTodo(id) {
     renderTodos();
 }
 
+// save to local storage
+function saveTodos() {
+    localStorage.setItem('todos', JSON.stringify(todos));
+}
+
+// key support added
+todoInput.addEventListener('keypress', (e) => {
+    if (e.key === 'Enter') addTodo();
+});
