@@ -162,7 +162,7 @@ let companies='Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon';
 companies=companies.split(',');
 // console.log(typeof(companies))
 // console.log(challenge.replace(challenge,"30 days of python"))
-
+console.log(challenge.charAt(4));
 
 
 
