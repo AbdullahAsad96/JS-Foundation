@@ -102,10 +102,10 @@ let myDate = new Date()
 // console.log(myDate.toLocaleString());
 // console.log(typeof myDate);
 myDate=Date.now()
-console.log(typeof myDate);
+// console.log(typeof myDate);
 let sarr=[1,2,3,4]
 let varr=[1,2,3,4]
-console.log("hello world");
+// console.log("hello world");
 
 // string concatination
 let word1= "Pakistan";
@@ -146,7 +146,24 @@ let Astring="majid ,wajid";
 
 // console.log(countries.split(','))  // split to any array at comma -> ["Finland", " Sweden", " Norway", " Denmark", " and Iceland"]
 // console.log(countries.split(', '))
-console.log(Astring.split(","))
+// console.log(Astring.split(","))
+
+// data types
+let challenge='30 days of javascript';
+// console.log(challenge)
+// console.log(challenge.length)
+// console.log(challenge.toLocaleUpperCase())
+// console.log(challenge.toLowerCase())
+// console.log(challenge.substring(0,2), challenge.substring(4,20))
+// console.log(challenge.includes('script'))
+// console.log(challenge.split(' '))
+let companies='Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon';
+// console.log(companies.split(','), typeof(companies));
+companies=companies.split(',');
+// console.log(typeof(companies))
+// console.log(challenge.replace(challenge,"30 days of python"))
+
+
 
 
 
