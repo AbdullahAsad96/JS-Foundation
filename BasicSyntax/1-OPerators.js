@@ -134,3 +134,21 @@ const lengthyString= "A string could be a single character or paragraph or a pag
 //    let temp=num1*i ; //2*1 =2, 2*2 =4, 2*3=6,\
 //    console.log(`2 multiply by ${i} is equal to :`,temp);
 // }
+
+let Astring="majid ,wajid";
+// console.log(Astring.length)
+// console.log(Astring[4])
+// console.log(Astring.toUpperCase())
+// console.log(Astring.toLowerCase())
+// console.log(Astring.substr(2,4))
+// console.log(Astring.spilt(','))
+// let countries = 'Finland, Sweden, Norway, Denmark, and Iceland'
+
+// console.log(countries.split(','))  // split to any array at comma -> ["Finland", " Sweden", " Norway", " Denmark", " and Iceland"]
+// console.log(countries.split(', '))
+console.log(Astring.split(","))
+
+
+
+
+
