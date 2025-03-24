@@ -129,3 +129,8 @@ const lengthyString= "A string could be a single character or paragraph or a pag
 \': Single quote (')
 \": Double quote (")
 */ 
+// let num1=2;
+// for(let i=1; i<=10; i++){
+//    let temp=num1*i ; //2*1 =2, 2*2 =4, 2*3=6,\
+//    console.log(`2 multiply by ${i} is equal to :`,temp);
+// }
