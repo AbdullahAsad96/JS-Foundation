@@ -164,7 +164,7 @@ companies=companies.split(',');
 // console.log(challenge.replace(challenge,"30 days of python"))
 console.log(challenge.charAt(4));
 
-
+console.log("hi 8043")
 
 
 
