@@ -174,5 +174,5 @@ let sentance="You cannot end a sentence with because because because is a conjun
 // console.log(sentance.indexOf('because'))
 // console.log(sentance.lastIndexOf('because'))
 
-
+console.log(sentance.search('because'))
 
