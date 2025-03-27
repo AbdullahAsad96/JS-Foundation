@@ -162,10 +162,17 @@ let companies='Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon';
 companies=companies.split(',');
 // console.log(typeof(companies))
 // console.log(challenge.replace(challenge,"30 days of python"))
-console.log(challenge.charAt(4));
+// console.log(challenge.charAt(4));
 
-console.log("hi 8043")
+// console.log("hi 8043")
+// console.log(challenge.charAt(9));
+// console.log(challenge.charCodeAt(4))
+// console.log(challenge.indexOf('a'))
+// console.log(challenge.lastIndexOf('a'))
 
+let sentance="You cannot end a sentence with because because because is a conjunction";
+// console.log(sentance.indexOf('because'))
+// console.log(sentance.lastIndexOf('because'))
 
 
 
