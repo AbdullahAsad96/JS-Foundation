@@ -174,6 +174,12 @@ let sentance="You cannot end a sentence with because because because is a conjun
 // console.log(sentance.indexOf('because'))
 // console.log(sentance.lastIndexOf('because'))
 
-console.log(sentance.search('because'))
-console.log("hello words
-   ")
+// console.log(sentance.search('because'))
+
+// console.log(Math.random()*500);
+// console.log('10'===10)
+// console.log(typeof('10')==10);
+// console.log('10'==10)
+// random num btw 50 to 500
+let randomNum=Math.floor(Math.random()*100-50+1)+50;
+console.log(randomNum);
