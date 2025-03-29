@@ -4,4 +4,6 @@ let lname='Abdullah';
 let age=24;
 let country='Pakistan';
 isMarried= false;
-console.log(fName, lname, )
+console.log(fName, lname, age, country, isMarried );
+console.log(parseInt(9.8)==10);
+
