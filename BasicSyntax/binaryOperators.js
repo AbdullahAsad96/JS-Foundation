@@ -7,6 +7,6 @@ isMarried= false;
 // console.log(fName, lname, age, country, isMarried );
 // console.log(parseInt(9.8)==10);
 // console.log(4!=3 || 4<5);
-console.log('isHappy'== 'Happyis')
+console.log('isHappy'== 'isHappy')
 
 
